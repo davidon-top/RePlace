@@ -1,0 +1,12 @@
+name: RePlace
+version: '${project.version}'
+main: the.david.replace.RePlace
+api-version: 1.19
+prefix: RP
+authors: [ 0David, itIsMeDavid ]
+description: allowes you to place blocks facing the other way
+commands:
+  rp:
+    description: Create change mode or delete function of this plugin
+    usage: Correct usage /<command> create/remove/mode <mode>
+#    permission: replace.useRePlace
